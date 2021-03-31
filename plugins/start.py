@@ -20,7 +20,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton("⚙ Help", callback_data="help_data"),
-                    InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                    InlineKeyboardButton("Close ⛔️", callback_data="close"),
                 ],
             ]
         ),
