@@ -26,7 +26,8 @@
         },
         "AUTH_USERS": {
             "description": "Id of users that can use the bot, from @MissRose_bot by /id command",
-            "value": ""
+            "value": "",
+            "required": false
         }
     },
     "addons": [],
