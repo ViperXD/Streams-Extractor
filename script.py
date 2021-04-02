@@ -13,7 +13,7 @@ Send me any video file and extract what you want :).
 
 See <i>help</i> for more details.
 
-© @VKPROJECTS</b>"""
+You must subscribe our channel in order to use me😇</b>"""
 
 
     HELP_MSG = """<b>Hai, Follow these Steps..</b>
@@ -29,7 +29,7 @@ See <i>help</i> for more details.
 <b>© @VKPROJECTS</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Extractor Bot</b>
 
 ⭕️<b>Creater :</b> @VKPROJECTS   
 
